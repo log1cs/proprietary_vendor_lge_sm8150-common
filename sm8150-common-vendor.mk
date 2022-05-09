@@ -1062,7 +1062,6 @@ PRODUCT_PACKAGES += \
     CneApp \
     IWlanService \
     TimeService \
-    com.qualcomm.qti.gpudrivers.msmnile.api30 \
     pasrservice \
     HotwordEnrollmentOKGoogleHEXAGON_WCD9340 \
     HotwordEnrollmentXGoogleHEXAGON_WCD9340 \
