@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter alphaplus betalm mh2lm flashlm flashlmdd,$(TARGET_DEVICE)),)
+ifneq ($(filter alphalm alphaplus betalm mh2lm flashlm flashlmdd,$(TARGET_DEVICE)),)
 
 endif
